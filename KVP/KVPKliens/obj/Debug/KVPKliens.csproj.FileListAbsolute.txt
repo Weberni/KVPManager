@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\KVP\KVPKliens\bin\Debug\KVPKliens.exe.config
+C:\Users\ASUS\source\repos\KVP\KVPKliens\bin\Debug\KVPKliens.exe
+C:\Users\ASUS\source\repos\KVP\KVPKliens\bin\Debug\KVPKliens.pdb
+C:\Users\ASUS\source\repos\KVP\KVPKliens\obj\Debug\KVPKliens.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\KVP\KVPKliens\obj\Debug\KVPKliens.Properties.Resources.resources
+C:\Users\ASUS\source\repos\KVP\KVPKliens\obj\Debug\KVPKliens.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KVP\KVPKliens\obj\Debug\KVPKliens.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KVP\KVPKliens\obj\Debug\KVPKliens.exe
+C:\Users\ASUS\source\repos\KVP\KVPKliens\obj\Debug\KVPKliens.pdb

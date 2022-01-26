@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\KVP\KVPDLL\bin\Debug\KVPDLL.dll
+C:\Users\ASUS\source\repos\KVP\KVPDLL\bin\Debug\KVPDLL.pdb
+C:\Users\ASUS\source\repos\KVP\KVPDLL\obj\Debug\KVPDLL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\KVP\KVPDLL\obj\Debug\KVPDLL.KVPFoldalFrm.resources
+C:\Users\ASUS\source\repos\KVP\KVPDLL\obj\Debug\KVPDLL.KVPOtletlapFrm.resources
+C:\Users\ASUS\source\repos\KVP\KVPDLL\obj\Debug\KVPDLL.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KVP\KVPDLL\obj\Debug\KVPDLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KVP\KVPDLL\obj\Debug\KVPDLL.dll
+C:\Users\ASUS\source\repos\KVP\KVPDLL\obj\Debug\KVPDLL.pdb
+C:\Users\nyikosbe\Desktop\KVP\KVPDLL\obj\Debug\KVPDLL.csproj.AssemblyReference.cache
+C:\Users\nyikosbe\Desktop\KVP\KVPDLL\obj\Debug\KVPDLL.KVPFoldalFrm.resources
+C:\Users\nyikosbe\Desktop\KVP\KVPDLL\obj\Debug\KVPDLL.KVPOtletlapFrm.resources
+C:\Users\nyikosbe\Desktop\KVP\KVPDLL\obj\Debug\KVPDLL.csproj.GenerateResource.cache
+C:\Users\nyikosbe\Desktop\KVP\KVPDLL\obj\Debug\KVPDLL.csproj.CoreCompileInputs.cache
+C:\Users\nyikosbe\Desktop\KVP\KVPDLL\obj\Debug\KVPDLL.dll
+C:\Users\nyikosbe\Desktop\KVP\KVPDLL\obj\Debug\KVPDLL.pdb

@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\KVP\KVPAdmin\bin\Debug\KVPAdmin.exe.config
+C:\Users\ASUS\source\repos\KVP\KVPAdmin\bin\Debug\KVPAdmin.exe
+C:\Users\ASUS\source\repos\KVP\KVPAdmin\bin\Debug\KVPAdmin.pdb
+C:\Users\ASUS\source\repos\KVP\KVPAdmin\obj\Debug\KVPAdmin.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\KVP\KVPAdmin\obj\Debug\KVPAdmin.Properties.Resources.resources
+C:\Users\ASUS\source\repos\KVP\KVPAdmin\obj\Debug\KVPAdmin.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KVP\KVPAdmin\obj\Debug\KVPAdmin.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KVP\KVPAdmin\obj\Debug\KVPAdmin.exe
+C:\Users\ASUS\source\repos\KVP\KVPAdmin\obj\Debug\KVPAdmin.pdb
